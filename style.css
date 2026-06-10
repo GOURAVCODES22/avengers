@@ -554,6 +554,10 @@ justify-content:center;
 
 gap:60px;
 
+touch-action:pan-y;
+
+-webkit-tap-highlight-color:transparent;
+
 }
 
 /* ==========================================
