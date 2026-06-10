@@ -926,6 +926,10 @@ font-size:20px;
 
 transition:.4s;
 
+-webkit-tap-highlight-color:transparent;
+outline:none;
+}
+
 }
 
 .social a:hover{
