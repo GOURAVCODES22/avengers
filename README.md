@@ -21,7 +21,7 @@ HTML • CSS • JavaScript
 
 ## Live Website
 
-https://avengersunivere.vercel.app
+https://avengersuniverse.vercel.app
 
 ## 👨‍💻 Developer
 
