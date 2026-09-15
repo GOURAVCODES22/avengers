@@ -19,7 +19,7 @@ HTML • CSS • JavaScript
 
 ## 🌐 Live Website
 
-AVENGERS UNIVERSE ( https://avengersunivere.vercel.app )
+AVENGERS UNIVERSE ( avengersunivere.vercel.app )
 
 ## 👨‍💻 Developer
 
