@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://avengersuniverse.vercel.app/sitemap.xml
